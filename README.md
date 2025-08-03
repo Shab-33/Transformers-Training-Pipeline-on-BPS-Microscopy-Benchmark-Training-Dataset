@@ -41,8 +41,6 @@ No extra data prep needed — just point the notebook to the folder and go.
    - Evaluation
    - Attention + SHAP visualisations
 
-Everything is modular and can be reused for different ViT variants too (like DeiT, Swin, etc.)
-
 ---
 
 ## Goal
