@@ -49,7 +49,7 @@ Everything is modular and can be reused for different ViT variants too (like Dei
 
 Besides getting good accuracy, the aim is to **understand why the model predicts what it does**, using visual tools to interpret its focus on cell structures.
 
-Example Images:
+Example Images From VIT Base:
 
 <img width="1907" height="698" alt="download (1)" src="https://github.com/user-attachments/assets/479334c4-39e5-4c3d-b99d-0aee2276e4c4" />
 <img width="1907" height="698" alt="download (2)" src="https://github.com/user-attachments/assets/5fa288f3-7a3f-4704-bd09-1c44ab785555" />
