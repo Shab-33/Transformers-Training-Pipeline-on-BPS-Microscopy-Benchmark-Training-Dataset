@@ -52,3 +52,9 @@ Example Images From VIT Base:
 <img width="1907" height="698" alt="download (1)" src="https://github.com/user-attachments/assets/479334c4-39e5-4c3d-b99d-0aee2276e4c4" />
 <img width="1907" height="698" alt="download (2)" src="https://github.com/user-attachments/assets/5fa288f3-7a3f-4704-bd09-1c44ab785555" />
 <img width="717" height="364" alt="download (4)" src="https://github.com/user-attachments/assets/57bdd1d7-dcaa-4131-96ac-c5ef56233b48" />
+
+## Training Results
+
+<img width="1200" height="450" alt="image" src="https://github.com/user-attachments/assets/f538e280-f198-486e-acf9-31db0a0397c6" />
+
+
